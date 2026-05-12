@@ -1,0 +1,47 @@
+{
+  "project": "量化分析工具",
+  "version": "v1.3",
+  "created": "2026-05-11",
+  "lastUpdated": "2026-05-11",
+  "currentPhase": "阶段一：认知建立",
+  "overallProgress": "0%",
+  "phaseProgress": {
+    "phase1": {
+      "status": "in_progress",
+      "progress": "25%",
+      "name": "认知建立",
+      "currentSubPhase": "1.1",
+      "subPhases": {
+        "1.1": {"status": "completed", "name": "什么是量化投资"},
+        "1.2": {"status": "pending", "name": "金融市场基础"},
+        "1.3": {"status": "pending", "name": "常见技术指标原理"},
+        "1.4": {"status": "pending", "name": "量化策略基础思想"}
+      }
+    },
+    "phase2": {"status": "pending", "progress": "0%", "name": "Python入门"},
+    "phase3": {"status": "pending", "progress": "0%", "name": "数据获取"},
+    "phase4": {"status": "pending", "progress": "0%", "name": "技术指标"},
+    "phase5": {"status": "pending", "progress": "0%", "name": "策略开发"},
+    "phase5b": {"status": "pending", "progress": "0%", "name": "多因子策略"},
+    "phase6": {"status": "pending", "progress": "0%", "name": "信号与风控"},
+    "phase7": {"status": "pending", "progress": "0%", "name": "系统集成"}
+  },
+  "completedItems": [
+    "数据源验证：finshare可用",
+    "数据源验证：新浪API可用",
+    "规划文档：量化分析学习规划.md",
+    "任务清单：任务清单.md",
+    "状态快照：状态快照.json",
+    "教程：1.1_什么是量化投资.md"
+  ],
+  "blockers": [],
+  "pendingConfirmations": [],
+  "nextAction": "继续1.2_金融市场基础",
+  "documents": {
+    "规划文档": "docs/plan/量化分析学习规划.md",
+    "任务清单": "docs/plan/任务清单.md",
+    "状态快照": "docs/plan/状态快照.json",
+    "阶段一目录": "docs/tutorials/阶段一_认知建立.md",
+    "1.1教程": "docs/tutorials/1.1_什么是量化投资.md"
+  }
+}
